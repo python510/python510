@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello 👋 I am Felix Mureithi
 
-<!--
-**python510/python510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full stack web developer/ Software engineering student
 
-Here are some ideas to get you started:
+Passionate about coding and all things technology i really enjoy the grind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm from Nairobi,Kenya
+- 📫 Reach me at [felyxkeem@gmail.com](mailto:felyxkeem@gmail.com)
+- 📄 Check out my resume at [MyResume](http://https://drive.google.com/file/d/1xIklHNkxSmjWAF-Usgj72wcaZo-hx0Me/view?usp=drive_link)
+- ⚡ Fun fact about me: Huge Playboi Carti fan
+
+
+### Skills
+
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
+</picture></a> &nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
+</picture></a> &nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
+</picture></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
+</picture></a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" />
+</picture></a> &nbsp;
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/linux-colored.svg" alt="Linux" />
+</picture></a> &nbsp;
+
+### Social
+
+<a href="https://www.github.com/https://github.com/python510" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.x.com/https://github.com/python510" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</picture>
+</a> &nbsp;
+
+
