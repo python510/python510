@@ -79,16 +79,4 @@ src="https://img.shields.io/badge/follow-%40https://x.com/FKeems65905-0891b2?log
 </picture>
 </a> &nbsp;
 
-### Badges
-#### My GitHub Stats
-
-<a
-href="http://www.github.com/https://github.com/python510"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/python510&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="https://github.com/python510's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/https://github.com/python510"><img
-src="https://streak-stats.demolab.com/?user=https://github.com/python510&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-<a href="http://www.github.com/https://github.com/python510"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/python510&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-<br/>
-<a href="https://github.com/https://github.com/python510" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/python510&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 
